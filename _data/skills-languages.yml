@@ -14,7 +14,7 @@
 - name: Python
   weight: 2
   
-  - name: PHP 3
+- name: PHP 3
   weight: 1
 
 - name: Java
