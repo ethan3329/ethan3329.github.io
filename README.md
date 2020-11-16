@@ -1,2 +1,2 @@
 # Hey, this is my website repo!
-Go to ethan3329.github.io to see my website! Thanks, bye.
+Go to ethancottrill.com to see my website! Thanks, bye.
